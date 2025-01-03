@@ -1,4 +1,4 @@
-# DATASCI 266 Final Project - Fall 2023
+# Albert Binary Classification on Hate Speech
 
 This repository contains the final submission files for the DATASCI 266 Final Project of Fall 2023. The project focuses on "Hate Speech Classification Using Albert."
 
